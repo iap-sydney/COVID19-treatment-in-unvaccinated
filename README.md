@@ -1,1 +1,2 @@
-# COVID19-treatment-in-unvaccinated
+# trt-unvax
+code for analysing treatments in unvaccinated

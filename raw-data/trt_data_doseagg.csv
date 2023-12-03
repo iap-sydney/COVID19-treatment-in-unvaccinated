@@ -1,0 +1,177 @@
+﻿Paper,FirstAuthor,Treatment,Group,Trttype,pcbmatch,Age,VaccStatus,Variant,Risk,treat.lag,MaxDaysSincePos,MaxDaysSinceSymp,Day,VLchange,ValueUnits,RangeSize,RangeType,n.virol,DaysRelTo,numevents,numatrisk,VLbase,AveBaseVL,treatment.type,agent,robhigh
+AV01,Hammond et al. (2022),Paxlovid,Paxlovid,AV,Yes,Adult,Unvaccinated,Delta,High,3,3,3,1,0,mean change in VL,,,552,Treatment Start,5,697,,,Small mol,Paxlovid,0
+AV01,Hammond et al. (2022),Paxlovid,Paxlovid,AV,Yes,Adult,Unvaccinated,Delta,High,3,3,3,3,-1.86,mean change in VL,0.11,SEM DIFF,552,Treatment Start,5,697,,,Small mol,Paxlovid,0
+AV01,Hammond et al. (2022),Paxlovid,Paxlovid,AV,Yes,Adult,Unvaccinated,Delta,High,3,3,3,5,-3.25,mean change in VL,0.1,SEM DIFF,552,Treatment Start,5,697,,,Small mol,Paxlovid,0
+AV01,Hammond et al. (2022),Paxlovid,Paxlovid,AV,Yes,Adult,Unvaccinated,Delta,High,3,3,3,10,-4.22,mean change in VL,0.1,SEM DIFF,552,Treatment Start,5,697,,,Small mol,Paxlovid,0
+AV01,Hammond et al. (2022),Paxlovid,Placebo,Placebo,,Adult,Unvaccinated,Delta,High,3,3,3,1,0,mean change in VL,,,553,Treatment Start,44,682,,,Small mol,Placebo,0
+AV01,Hammond et al. (2022),Paxlovid,Placebo,Placebo,,Adult,Unvaccinated,Delta,High,3,3,3,3,-1.32,mean change in VL,,,553,Treatment Start,44,682,,,Small mol,Placebo,0
+AV01,Hammond et al. (2022),Paxlovid,Placebo,Placebo,,Adult,Unvaccinated,Delta,High,3,3,3,5,-2.37,mean change in VL,,,553,Treatment Start,44,682,,,Small mol,Placebo,0
+AV01,Hammond et al. (2022),Paxlovid,Placebo,Placebo,,Adult,Unvaccinated,Delta,High,3,3,3,10,-3.76,mean change in VL,,,553,Treatment Start,44,682,,,Small mol,Placebo,0
+AV03,Jayk Bernal et al. (2021),Molnupiravir,800mg Molnupiravir,AV,Yes,Adult,Unvaccinated,Delta,High,4,,5,1,0,mean change in VL,,,549,Treatment Start,48,709,6.81,6.81,Small mol,Molnupiravir,0
+AV03,Jayk Bernal et al. (2021),Molnupiravir,800mg Molnupiravir,AV,Yes,Adult,Unvaccinated,Delta,High,4,,5,3,-1.08,mean change in VL,0.058,SEM GROUP,549,Treatment Start,48,709,6.81,6.81,Small mol,Molnupiravir,0
+AV03,Jayk Bernal et al. (2021),Molnupiravir,800mg Molnupiravir,AV,Yes,Adult,Unvaccinated,Delta,High,4,,5,5,-2.09,mean change in VL,0.067,SEM GROUP,549,Treatment Start,48,709,6.81,6.81,Small mol,Molnupiravir,0
+AV03,Jayk Bernal et al. (2021),Molnupiravir,800mg Molnupiravir,AV,Yes,Adult,Unvaccinated,Delta,High,4,,5,10,-3.18,mean change in VL,0.073,SEM GROUP,549,Treatment Start,48,709,6.81,6.81,Small mol,Molnupiravir,0
+AV03,Jayk Bernal et al. (2021),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,Delta,High,4,,5,1,0,mean change in VL,,,544,Treatment Start,68,699,6.81,6.81,Small mol,Placebo,0
+AV03,Jayk Bernal et al. (2021),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,Delta,High,4,,5,3,-0.84,mean change in VL,0.056,SEM GROUP,544,Treatment Start,68,699,6.81,6.81,Small mol,Placebo,0
+AV03,Jayk Bernal et al. (2021),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,Delta,High,4,,5,5,-1.79,mean change in VL,0.067,SEM GROUP,544,Treatment Start,68,699,6.81,6.81,Small mol,Placebo,0
+AV03,Jayk Bernal et al. (2021),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,Delta,High,4,,5,10,-2.99,mean change in VL,0.075,SEM GROUP,544,Treatment Start,68,699,6.81,6.81,Small mol,Placebo,0
+MAB02,Norton et al. (2022),Regen-Cov,Regen-Cov comb dose,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,3,7,1,0,mean change in VL,,,287,Treatment Start,3,434,5.92,6.04,mAb,Regen-Cov,0
+MAB02,Norton et al. (2022),Regen-Cov,Regen-Cov comb dose,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,3,7,3,-1.26,mean change in VL,,,287,Treatment Start,3,434,5.92,6.04,mAb,Regen-Cov,0
+MAB02,Norton et al. (2022),Regen-Cov,Regen-Cov comb dose,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,3,7,5,-2.39,mean change in VL,,,287,Treatment Start,3,434,5.92,6.04,mAb,Regen-Cov,0
+MAB02,Norton et al. (2022),Regen-Cov,Regen-Cov comb dose,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,3,7,7,-3.02,mean change in VL,,,287,Treatment Start,3,434,5.92,6.04,mAb,Regen-Cov,0
+MAB02,Norton et al. (2022),Regen-Cov,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,3,7,1,0,mean change in VL,,,150,Treatment Start,5,231,6.16,,mAb,Placebo,0
+MAB02,Norton et al. (2022),Regen-Cov,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,3,7,3,-0.85,mean change in VL,,,150,Treatment Start,5,231,6.16,,mAb,Placebo,0
+MAB02,Norton et al. (2022),Regen-Cov,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,3,7,5,-1.8,mean change in VL,,,150,Treatment Start,5,231,6.16,,mAb,Placebo,0
+MAB02,Norton et al. (2022),Regen-Cov,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,3,7,7,-2.7,mean change in VL,,,150,Treatment Start,5,231,6.16,,mAb,Placebo,0
+MAB04,Montgomery et al. (2022),Tixagevimab + cilgavimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,High,5,3,7,1,0,LS mean change in VL,,,165,Treatment Start,41,444,5.74,5.7,mAb,Placebo,0
+MAB04,Montgomery et al. (2022),Tixagevimab + cilgavimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,High,5,3,7,3,-0.57,LS mean change in VL,0.26,95CI GROUP,165,Treatment Start,41,444,5.74,5.7,mAb,Placebo,0
+MAB04,Montgomery et al. (2022),Tixagevimab + cilgavimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,High,5,3,7,6,-1.46,LS mean change in VL,0.19,95CI GROUP,165,Treatment Start,41,444,5.74,5.7,mAb,Placebo,0
+MAB04,Montgomery et al. (2022),Tixagevimab + cilgavimab,TIX+CIL,MAB,Yes,Adult,Unvaccinated,Alpha,High,4.9,3,7,1,0,LS mean change in VL,,,168,Treatment Start,24,446,5.65,,mAb,TIX + CIL,0
+MAB04,Montgomery et al. (2022),Tixagevimab + cilgavimab,TIX+CIL,MAB,Yes,Adult,Unvaccinated,Alpha,High,4.9,3,7,3,-0.85,LS mean change in VL,0.26,95CI GROUP,168,Treatment Start,24,446,5.65,,mAb,TIX + CIL,0
+MAB04,Montgomery et al. (2022),Tixagevimab + cilgavimab,TIX+CIL,MAB,Yes,Adult,Unvaccinated,Alpha,High,4.9,3,7,6,-1.94,LS mean change in VL,0.18,95CI GROUP,168,Treatment Start,24,446,5.65,,mAb,TIX + CIL,0
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,BAM Comb dose,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4.33,3,,1,0,mean change in VL,,,287,Treatment Start,5,309,6.33,6.28,mAb,BAM,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,BAM Comb dose,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4.33,3,,3,-1.46,mean change in VL,0.25,95CI DIFF,287,Treatment Start,5,309,6.33,6.28,mAb,BAM,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,BAM Comb dose,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4.33,3,,7,-2.96,mean change in VL,0.26,95CI DIFF,287,Treatment Start,5,309,6.33,6.28,mAb,BAM,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,BAM Comb dose,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4.33,3,,11,-3.76,mean change in VL,0.25,95CI DIFF,287,Treatment Start,5,309,6.33,6.28,mAb,BAM,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4,3,,1,0,mean change in VL,,,97,Treatment Start,1,112,6.53,6.38,mAb,BAM + ETE,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4,3,,3,-1.69,mean change in VL,0.44,95CI DIFF,97,Treatment Start,1,112,6.53,6.38,mAb,BAM + ETE,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4,3,,7,-3.76,mean change in VL,0.45,95CI DIFF,97,Treatment Start,1,112,6.53,6.38,mAb,BAM + ETE,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4,3,,11,-4.37,mean change in VL,0.43,95CI DIFF,97,Treatment Start,1,112,6.53,6.38,mAb,BAM + ETE,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,4,3,,1,0,mean change in VL,,,141,Treatment Start,9,156,6.23,,mAb,Placebo,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,4,3,,3,-1.14,mean change in VL,,,141,Treatment Start,9,156,6.23,,mAb,Placebo,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,4,3,,7,-2.64,mean change in VL,,,141,Treatment Start,9,156,6.23,,mAb,Placebo,1
+MAB06,Gottlieb et al. (2021a),BAM or BAM+ETE,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,4,3,,11,-3.8,mean change in VL,,,141,Treatment Start,9,156,6.23,,mAb,Placebo,1
+MAB07,Dougan et al. (2021),BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,1,0,mean change in VL,,,518,Treatment Start,11,518,6.33,6.33,mAb,BAM + ETE,1
+MAB07,Dougan et al. (2021),BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,3,-1.45,mean change in VL,0.15,95CI GROUP,518,Treatment Start,11,518,6.33,6.33,mAb,BAM + ETE,1
+MAB07,Dougan et al. (2021),BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,5,-2.6,mean change in VL,0.165,95CI GROUP,518,Treatment Start,11,518,6.33,6.33,mAb,BAM + ETE,1
+MAB07,Dougan et al. (2021),BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,7,-3.66,mean change in VL,0.17,95CI GROUP,518,Treatment Start,11,518,6.33,6.33,mAb,BAM + ETE,1
+MAB07,Dougan et al. (2021),BAM+ETE,2800mg BAM + 2800mg ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,11,-4.31,mean change in VL,0.175,95CI GROUP,518,Treatment Start,11,518,6.33,6.33,mAb,BAM + ETE,1
+MAB07,Dougan et al. (2021),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,4,3,,1,0,mean change in VL,,,517,Treatment Start,36,517,6.33,,mAb,Placebo,1
+MAB07,Dougan et al. (2021),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,4,3,,3,-0.73,mean change in VL,0.16,95CI GROUP,517,Treatment Start,36,517,6.33,,mAb,Placebo,1
+MAB07,Dougan et al. (2021),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,4,3,,5,-1.79,mean change in VL,0.175,95CI GROUP,517,Treatment Start,36,517,6.33,,mAb,Placebo,1
+MAB07,Dougan et al. (2021),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,4,3,,7,-2.46,mean change in VL,0.18,95CI GROUP,517,Treatment Start,36,517,6.33,,mAb,Placebo,1
+MAB07,Dougan et al. (2021),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,4,3,,11,-3.74,mean change in VL,0.185,95CI GROUP,517,Treatment Start,36,517,6.33,,mAb,Placebo,1
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),BEB,MAB,Yes,Adult,Unvaccinated,Delta,Low,3,3,,1,0,LS mean change in VL,,,125,Treatment Start,2,125,6.4,6.2,mAb,BEB,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),BEB,MAB,Yes,Adult,Unvaccinated,Delta,Low,3,3,,3,-1.43,LS mean change in VL,0.21,SEM GROUP,125,Treatment Start,2,125,6.4,6.2,mAb,BEB,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),BEB,MAB,Yes,Adult,Unvaccinated,Delta,Low,3,3,,5,-3.03,LS mean change in VL,0.19,SEM GROUP,125,Treatment Start,2,125,6.4,6.2,mAb,BEB,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),BEB,MAB,Yes,Adult,Unvaccinated,Delta,Low,3,3,,7,-3.77,LS mean change in VL,0.2,SEM GROUP,125,Treatment Start,2,125,6.4,6.2,mAb,BEB,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),BEB+BAM+ETE,MAB,Yes,Adult,Unvaccinated,Delta,Low,3,3,,1,0,LS mean change in VL,,,127,Treatment Start,3,127,6,6,mAb,BEB + BAM + ETE,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),BEB+BAM+ETE,MAB,Yes,Adult,Unvaccinated,Delta,Low,3,3,,3,-1.38,LS mean change in VL,0.2,SEM GROUP,127,Treatment Start,3,127,6,6,mAb,BEB + BAM + ETE,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),BEB+BAM+ETE,MAB,Yes,Adult,Unvaccinated,Delta,Low,3,3,,5,-2.81,LS mean change in VL,0.19,SEM GROUP,127,Treatment Start,3,127,6,6,mAb,BEB + BAM + ETE,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),BEB+BAM+ETE,MAB,Yes,Adult,Unvaccinated,Delta,Low,3,3,,7,-4,LS mean change in VL,0.2,SEM GROUP,127,Treatment Start,3,127,6,6,mAb,BEB + BAM + ETE,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),Placebo,Placebo,,Adult,Unvaccinated,Delta,Low,3.5,3,,1,0,LS mean change in VL,,,128,Treatment Start,2,128,6,,mAb,Placebo,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),Placebo,Placebo,,Adult,Unvaccinated,Delta,Low,3.5,3,,3,-1.21,LS mean change in VL,0.2,SEM GROUP,128,Treatment Start,2,128,6,,mAb,Placebo,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),Placebo,Placebo,,Adult,Unvaccinated,Delta,Low,3.5,3,,5,-2.13,LS mean change in VL,0.19,SEM GROUP,128,Treatment Start,2,128,6,,mAb,Placebo,0
+MAB08,Dougan et al. (2022a),BEB (Mono & Combo),Placebo,Placebo,,Adult,Unvaccinated,Delta,Low,3.5,3,,7,-3.62,LS mean change in VL,0.2,SEM GROUP,128,Treatment Start,2,128,6,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,7,1,0,mean change in VL,,,104,Treatment Start,9,104,,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,7,2,-0.3,mean change in VL,0.11,SEM GROUP,104,Treatment Start,9,104,,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,7,3,-0.87,mean change in VL,0.13,SEM GROUP,104,Treatment Start,9,104,,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,7,4,-1.51,mean change in VL,0.15,SEM GROUP,104,Treatment Start,9,104,,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,7,5,-1.69,mean change in VL,0.17,SEM GROUP,104,Treatment Start,9,104,,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,7,6,-2.04,mean change in VL,0.17,SEM GROUP,104,Treatment Start,9,104,,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,7,7,-2.28,mean change in VL,0.17,SEM GROUP,104,Treatment Start,9,104,,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,7,10,-3.03,mean change in VL,0.16,SEM GROUP,104,Treatment Start,9,104,,,mAb,Placebo,0
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Regdanvimab all doses,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,,7,1,0,mean change in VL,,,203,Treatment Start,9,203,,,mAb,Regdanvimab,1
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Regdanvimab all doses,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,,7,2,-0.61,mean change in VL,0.06,SEM GROUP,203,Treatment Start,9,203,,,mAb,Regdanvimab,1
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Regdanvimab all doses,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,,7,3,-1.35,mean change in VL,0.08,SEM GROUP,203,Treatment Start,9,203,,,mAb,Regdanvimab,1
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Regdanvimab all doses,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,,7,4,-2.13,mean change in VL,0.09,SEM GROUP,203,Treatment Start,9,203,,,mAb,Regdanvimab,1
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Regdanvimab all doses,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,,7,5,-2.49,mean change in VL,0.13,SEM GROUP,203,Treatment Start,9,203,,,mAb,Regdanvimab,1
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Regdanvimab all doses,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,,7,6,-2.88,mean change in VL,0.11,SEM GROUP,203,Treatment Start,9,203,,,mAb,Regdanvimab,1
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Regdanvimab all doses,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,,7,7,-3.17,mean change in VL,0.1,SEM GROUP,203,Treatment Start,9,203,,,mAb,Regdanvimab,1
+MAB12,Streinu-Cercel et al. (2022),Regdanvimab,Regdanvimab all doses,MAB,Yes,Adult,Unvaccinated,WT,Mixed,3,,7,10,-3.4,mean change in VL,0.12,SEM GROUP,203,Treatment Start,9,203,,,mAb,Regdanvimab,1
+MAB13,Dougan et al. (2022b),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,3,3,,1,0,LS mean change in VL,,,258,Treatment Start,15,258,6.11,,mAb,Placebo,1
+MAB13,Dougan et al. (2022b),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,3,3,,3,-0.86,LS mean change in VL,0.07,SEM GROUP,258,Treatment Start,15,258,6.11,,mAb,Placebo,1
+MAB13,Dougan et al. (2022b),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,3,3,,5,-1.8,LS mean change in VL,0.075,SEM GROUP,258,Treatment Start,15,258,6.11,,mAb,Placebo,1
+MAB13,Dougan et al. (2022b),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,3,3,,7,-2.54,LS mean change in VL,0.08,SEM GROUP,258,Treatment Start,15,258,6.11,,mAb,Placebo,1
+MAB13,Dougan et al. (2022b),BAM+ETE,Placebo,Placebo,,12+,Unvaccinated,WT,High,3,3,,11,-3.87,LS mean change in VL,0.08,SEM GROUP,258,Treatment Start,15,258,6.11,,mAb,Placebo,1
+MAB13,Dougan et al. (2022b),BAM+ETE,BAM+ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,1,0,LS mean change in VL,,,511,Treatment Start,4,511,6.26,6.19,mAb,BAM + ETE,1
+MAB13,Dougan et al. (2022b),BAM+ETE,BAM+ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,3,-1.45,LS mean change in VL,0.09,SEM GROUP,511,Treatment Start,4,511,6.26,6.19,mAb,BAM + ETE,1
+MAB13,Dougan et al. (2022b),BAM+ETE,BAM+ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,5,-2.7,LS mean change in VL,0.09,SEM GROUP,511,Treatment Start,4,511,6.26,6.19,mAb,BAM + ETE,1
+MAB13,Dougan et al. (2022b),BAM+ETE,BAM+ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,7,-3.63,LS mean change in VL,0.095,SEM GROUP,511,Treatment Start,4,511,6.26,6.19,mAb,BAM + ETE,1
+MAB13,Dougan et al. (2022b),BAM+ETE,BAM+ETE,MAB,Yes,12+,Unvaccinated,WT,High,4,3,,11,-4.76,LS mean change in VL,0.1,SEM GROUP,511,Treatment Start,4,511,6.26,6.19,mAb,BAM + ETE,1
+AV05,Caraco et al. (2022),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,WT,High,4.5,,7,1,0,mean change in VL,,,60,Treatment Start,4,74,,,Small mol,Placebo,1
+AV05,Caraco et al. (2022),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,WT,High,4.5,,7,3,-1,mean change in VL,,,60,Treatment Start,4,74,,,Small mol,Placebo,1
+AV05,Caraco et al. (2022),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,WT,High,4.5,,7,5,-1.7,mean change in VL,,,60,Treatment Start,4,74,,,Small mol,Placebo,1
+AV05,Caraco et al. (2022),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,WT,High,4.5,,7,10,-2.51,mean change in VL,,,60,Treatment Start,4,74,,,Small mol,Placebo,1
+AV05,Caraco et al. (2022),Molnupiravir,Molnupiravir comb dose,AV,Yes,Adult,Unvaccinated,WT,High,4.6,,7,1,0,mean change in VL,,,185,Treatment Start,7,225,,,Small mol,Molnupiravir,1
+AV05,Caraco et al. (2022),Molnupiravir,Molnupiravir comb dose,AV,Yes,Adult,Unvaccinated,WT,High,4.6,,7,3,-1,mean change in VL,,,185,Treatment Start,7,225,,,Small mol,Molnupiravir,1
+AV05,Caraco et al. (2022),Molnupiravir,Molnupiravir comb dose,AV,Yes,Adult,Unvaccinated,WT,High,4.6,,7,5,-1.94,mean change in VL,,,185,Treatment Start,7,225,,,Small mol,Molnupiravir,1
+AV05,Caraco et al. (2022),Molnupiravir,Molnupiravir comb dose,AV,Yes,Adult,Unvaccinated,WT,High,4.6,,7,10,-2.76,mean change in VL,,,185,Treatment Start,7,225,,,Small mol,Molnupiravir,1
+AV11,Gottlieb et al. (2021b),Remdesivir,Placebo,Placebo,,12+,Unvaccinated,WT,High,5,4,7,1,0.00,mean change in VL,,,213,Treatment Start,15,283,6.28,,Small mol,Placebo,0
+AV11,Gottlieb et al. (2021b),Remdesivir,Placebo,Placebo,,12+,Unvaccinated,WT,High,5,4,7,2,-0.49,mean change in VL,0.131,95CI GROUP,213,Treatment Start,15,283,6.28,,Small mol,Placebo,0
+AV11,Gottlieb et al. (2021b),Remdesivir,Placebo,Placebo,,12+,Unvaccinated,WT,High,5,4,7,3,-0.88,mean change in VL,0.158,95CI GROUP,213,Treatment Start,15,283,6.28,,Small mol,Placebo,0
+AV11,Gottlieb et al. (2021b),Remdesivir,Placebo,Placebo,,12+,Unvaccinated,WT,High,5,4,7,7,-2.30,mean change in VL,0.225,95CI GROUP,213,Treatment Start,15,283,6.28,,Small mol,Placebo,0
+AV11,Gottlieb et al. (2021b),Remdesivir,Remdesivir,AV,Yes,12+,Unvaccinated,WT,High,5,4,7,1,0.00,mean change in VL,,,215,Treatment Start,2,279,6.31,6.3,Small mol,Remdesivir,0
+AV11,Gottlieb et al. (2021b),Remdesivir,Remdesivir,AV,Yes,12+,Unvaccinated,WT,High,5,4,7,2,-0.53,mean change in VL,0.140,95CI GROUP,215,Treatment Start,2,279,6.31,6.3,Small mol,Remdesivir,0
+AV11,Gottlieb et al. (2021b),Remdesivir,Remdesivir,AV,Yes,12+,Unvaccinated,WT,High,5,4,7,3,-1.03,mean change in VL,0.153,95CI GROUP,215,Treatment Start,2,279,6.31,6.3,Small mol,Remdesivir,0
+AV11,Gottlieb et al. (2021b),Remdesivir,Remdesivir,AV,Yes,12+,Unvaccinated,WT,High,5,4,7,7,-2.26,mean change in VL,0.225,95CI GROUP,215,Treatment Start,2,279,6.31,6.3,Small mol,Remdesivir,0
+MAB14,Chew et al. (2022),Bamlinivimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,5.75,10,,1,0,change in median VL,,,157,Treatment Start,8,157,5.49,,mAb,Placebo,0
+MAB14,Chew et al. (2022),Bamlinivimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,5.75,10,,4,-1.74,change in median VL,,,157,Treatment Start,8,157,5.49,,mAb,Placebo,0
+MAB14,Chew et al. (2022),Bamlinivimab,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,5.75,10,,8,-3.33,change in median VL,,,157,Treatment Start,8,157,5.49,,mAb,Placebo,0
+MAB14,Chew et al. (2022),Bamlinivimab,Bamlinivimab Combined,MAB,Yes,Adult,Unvaccinated,WT,Mixed,6,10,,1,0,change in median VL,,,157,Treatment Start,6,159,5.41,5.45,mAb,BAM,0
+MAB14,Chew et al. (2022),Bamlinivimab,Bamlinivimab Combined,MAB,Yes,Adult,Unvaccinated,WT,Mixed,6,10,,4,-2.72,change in median VL,,,157,Treatment Start,6,159,5.41,5.45,mAb,BAM,0
+MAB14,Chew et al. (2022),Bamlinivimab,Bamlinivimab Combined,MAB,Yes,Adult,Unvaccinated,WT,Mixed,6,10,,8,-3.43,change in median VL,,,157,Treatment Start,6,159,5.41,5.45,mAb,BAM,0
+OTH05,Rossignol et al. (2022),Nitazoxanide,Placebo,Placebo,,12+,Unvaccinated,WT,Mixed,1.94,,3,1,0,mean change in VL,,,195,Treatment Start,5,195,6.34,,Small mol,Placebo,1
+OTH05,Rossignol et al. (2022),Nitazoxanide,Placebo,Placebo,,12+,Unvaccinated,WT,Mixed,1.94,,3,4,-1.02,mean change in VL,0.13,SEM GROUP,195,Treatment Start,5,195,6.34,,Small mol,Placebo,1
+OTH05,Rossignol et al. (2022),Nitazoxanide,Placebo,Placebo,,12+,Unvaccinated,WT,Mixed,1.94,,3,10,-2.61,mean change in VL,0.12,SEM GROUP,195,Treatment Start,5,195,6.34,,Small mol,Placebo,1
+OTH05,Rossignol et al. (2022),Nitazoxanide,Nitazoxanide,OTH,Yes,12+,Unvaccinated,WT,Mixed,1.83,,3,1,0,mean change in VL,,,184,Treatment Start,1,184,6.38,6.36,Small mol,Nitazoxanide,1
+OTH05,Rossignol et al. (2022),Nitazoxanide,Nitazoxanide,OTH,Yes,12+,Unvaccinated,WT,Mixed,1.83,,3,4,-0.7,mean change in VL,0.12,SEM GROUP,184,Treatment Start,1,184,6.38,6.36,Small mol,Nitazoxanide,1
+OTH05,Rossignol et al. (2022),Nitazoxanide,Nitazoxanide,OTH,Yes,12+,Unvaccinated,WT,Mixed,1.83,,3,10,-2.49,mean change in VL,0.12,SEM GROUP,184,Treatment Start,1,184,6.38,6.36,Small mol,Nitazoxanide,1
+OTH07,Mitja et al. (2021),HCQ,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,5,1,0.00,mean change in VL,,,157,Treatment Start,11,154,7.83,,Small mol,Placebo,1
+OTH07,Mitja et al. (2021),HCQ,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,5,3,-1.41,mean change in VL,0.14,SEM GROUP,157,Treatment Start,11,154,7.83,,Small mol,Placebo,1
+OTH07,Mitja et al. (2021),HCQ,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,3,,5,7,-3.37,mean change in VL,0.18,SEM GROUP,157,Treatment Start,11,154,7.83,,Small mol,Placebo,1
+OTH07,Mitja et al. (2021),HCQ,HCQ,OTH,Yes,Adult,Unvaccinated,WT,Mixed,3,,5,1,0.00,mean change in VL,,,136,Treatment Start,8,136,7.99,,Small mol,Hydroxychloroquine,1
+OTH07,Mitja et al. (2021),HCQ,HCQ,OTH,Yes,Adult,Unvaccinated,WT,Mixed,3,,5,3,-1.41,mean change in VL,0.15,SEM GROUP,136,Treatment Start,8,136,7.99,,Small mol,Hydroxychloroquine,1
+OTH07,Mitja et al. (2021),HCQ,HCQ,OTH,Yes,Adult,Unvaccinated,WT,Mixed,3,,5,7,-3.44,mean change in VL,0.19,SEM GROUP,136,Treatment Start,8,136,7.99,,Small mol,Hydroxychloroquine,1
+AV02,Fischer et al. (2022),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,4.55,4,7,1,0,LS mean change in VL,,,61,Treatment Start,1,62,6.11,,Small mol,Placebo,0
+AV02,Fischer et al. (2022),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,4.55,4,7,3,-0.847,LS mean change in VL,,,61,Treatment Start,1,62,6.11,,Small mol,Placebo,0
+AV02,Fischer et al. (2022),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,4.55,4,7,5,-1.32,LS mean change in VL,,,61,Treatment Start,1,62,6.11,,Small mol,Placebo,0
+AV02,Fischer et al. (2022),Molnupiravir,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,4.55,4,7,7,-1.952,LS mean change in VL,,,61,Treatment Start,1,62,6.11,,Small mol,Placebo,0
+AV02,Fischer et al. (2022),Molnupiravir,Molnupiravir comb dose,AV,Yes,Adult,Unvaccinated,WT,Mixed,4.6,4,7,1,0,LS mean change in VL,,,137,Treatment Start,3,140,6.2,6.16,Small mol,Molnupiravir,0
+AV02,Fischer et al. (2022),Molnupiravir,Molnupiravir comb dose,AV,Yes,Adult,Unvaccinated,WT,Mixed,4.6,4,7,3,-0.956642336,LS mean change in VL,0.22,95CI DIFF,137,Treatment Start,3,140,6.2,6.16,Small mol,Molnupiravir,0
+AV02,Fischer et al. (2022),Molnupiravir,Molnupiravir comb dose,AV,Yes,Adult,Unvaccinated,WT,Mixed,4.6,4,7,5,-1.75020438,LS mean change in VL,0.25,95CI DIFF,137,Treatment Start,3,140,6.2,6.16,Small mol,Molnupiravir,0
+AV02,Fischer et al. (2022),Molnupiravir,Molnupiravir comb dose,AV,Yes,Adult,Unvaccinated,WT,Mixed,4.6,4,7,7,-2.309430657,LS mean change in VL,0.24,95CI DIFF,137,Treatment Start,3,140,6.2,6.16,Small mol,Molnupiravir,0
+MAB15,Gupta et al. (2021),Sotrovimab,Placebo,Placebo,,Adult,Unvaccinated,WT,High,3,,5,1,0,mean change in VL,,,105,Treatment Start,21,292,6.83,,mAb,Placebo,1
+MAB15,Gupta et al. (2021),Sotrovimab,Placebo,Placebo,,Adult,Unvaccinated,WT,High,3,,5,5,-1.803,mean change in VL,0.15,SEM GROUP,105,Treatment Start,21,292,6.83,,mAb,Placebo,1
+MAB15,Gupta et al. (2021),Sotrovimab,Placebo,Placebo,,Adult,Unvaccinated,WT,High,3,,5,8,-2.878,mean change in VL,0.18,SEM GROUP,105,Treatment Start,21,292,6.83,,mAb,Placebo,1
+MAB15,Gupta et al. (2021),Sotrovimab,Sotrovimab,MAB,Yes,Adult,Unvaccinated,WT,High,3,,5,1,0,mean change in VL,,,109,Treatment Start,3,291,6.68,,mAb,Sotrovimab,1
+MAB15,Gupta et al. (2021),Sotrovimab,Sotrovimab,MAB,Yes,Adult,Unvaccinated,WT,High,3,,5,5,-2.21,mean change in VL,0.16,SEM GROUP,109,Treatment Start,3,291,6.68,,mAb,Sotrovimab,1
+MAB15,Gupta et al. (2021),Sotrovimab,Sotrovimab,MAB,Yes,Adult,Unvaccinated,WT,High,3,,5,8,-2.996,mean change in VL,0.17,SEM GROUP,109,Treatment Start,3,291,6.68,,mAb,Sotrovimab,1
+MAB03,Weinreich et al. (2021),Regen-Cov,Placebo,Placebo,,Adult,Unvaccinated,WT,High,3,3,7,1,0,LS mean change in VL,,,1333,Treatment Start,62,1341,6.66,,mAb,Placebo,0
+MAB03,Weinreich et al. (2021),Regen-Cov,Placebo,Placebo,,Adult,Unvaccinated,WT,High,3,3,7,7,-2.47,LS mean change in VL,,,1333,Treatment Start,62,1341,6.66,,mAb,Placebo,0
+MAB03,Weinreich et al. (2021),Regen-Cov,Regen-Cov comb dose,MAB,Yes,Adult,Unvaccinated,WT,High,3,3,7,1,0,LS mean change in VL,,,2712,Treatment Start,38,2716,6.7,6.68,mAb,Regen-Cov,0
+MAB03,Weinreich et al. (2021),Regen-Cov,Regen-Cov comb dose,MAB,Yes,Adult,Unvaccinated,WT,High,3,3,7,7,-3.2917,LS mean change in VL,0.0975,95CI DIFF,2712,Treatment Start,38,2716,6.7,6.68,mAb,Regen-Cov,0
+MAB16,Bender Ignacio et al. (2023),Tixagevimab + cilgavimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,Mixed,6,,10,1,0,mean change in VL,,,90,Treatment Start,11,173,4.13,,mAb,Placebo,0
+MAB16,Bender Ignacio et al. (2023),Tixagevimab + cilgavimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,Mixed,6,,10,4,-2.34,mean change in VL,,,90,Treatment Start,11,173,4.13,,mAb,Placebo,0
+MAB16,Bender Ignacio et al. (2023),Tixagevimab + cilgavimab,TIX+CIL,MAB,Yes,Adult,Unvaccinated,Alpha,Mixed,6,,10,1,0,mean change in VL,,,91,Treatment Start,4,164,4.89,4.51,mAb,TIX + CIL,0
+MAB16,Bender Ignacio et al. (2023),Tixagevimab + cilgavimab,TIX+CIL,MAB,Yes,Adult,Unvaccinated,Alpha,Mixed,6,,10,4,-2.74,mean change in VL,,,91,Treatment Start,4,164,4.89,4.51,mAb,TIX + CIL,0
+OTH09,Gharbharan et al. (2023),CP,Placebo,Placebo,,50+,Unvaccinated,Alpha,High,5,,8,1,0,mean change in VL,,,42,Treatment Start,19,209,,,mAb,Placebo,1
+OTH09,Gharbharan et al. (2023),CP,Placebo,Placebo,,50+,Unvaccinated,Alpha,High,5,,8,3,-1.27,mean change in VL,0.56,95CI DIFF,42,Treatment Start,19,209,,,mAb,Placebo,1
+OTH09,Gharbharan et al. (2023),CP,Placebo,Placebo,,50+,Unvaccinated,Alpha,High,5,,8,7,-3.02,mean change in VL,0.558,95CI DIFF,42,Treatment Start,19,209,,,mAb,Placebo,1
+OTH09,Gharbharan et al. (2023),CP,CP,Other,Yes,50+,Unvaccinated,Alpha,High,5,,8,1,0,mean change in VL,,,43,Treatment Start,11,207,,,mAb,CP,1
+OTH09,Gharbharan et al. (2023),CP,CP,Other,Yes,50+,Unvaccinated,Alpha,High,5,,8,3,-1.51,mean change in VL,0.621,95CI DIFF,43,Treatment Start,11,207,,,mAb,CP,1
+OTH09,Gharbharan et al. (2023),CP,CP,Other,Yes,50+,Unvaccinated,Alpha,High,5,,8,7,-2.94,mean change in VL,0.619,95CI DIFF,43,Treatment Start,11,207,,,mAb,CP,1
+MAB17,Kim et al. (2022),Regdanvimab,Regdanvimab,MAB,Yes,Adult,Unvaccinated,Alpha,Mixed,4,,7,1,0,mean change in VL,,,648,Treatment Start,16,656,6.155,6.205,mAb,Regdanvimab,0
+MAB17,Kim et al. (2022),Regdanvimab,Regdanvimab,MAB,Yes,Adult,Unvaccinated,Alpha,Mixed,4,,7,3,-1.31,mean change in VL,,,648,Treatment Start,16,656,6.155,6.205,mAb,Regdanvimab,0
+MAB17,Kim et al. (2022),Regdanvimab,Regdanvimab,MAB,Yes,Adult,Unvaccinated,Alpha,Mixed,4,,7,7,-2.85,mean change in VL,,,648,Treatment Start,16,656,6.155,6.205,mAb,Regdanvimab,0
+MAB17,Kim et al. (2022),Regdanvimab,Regdanvimab,MAB,Yes,Adult,Unvaccinated,Alpha,Mixed,4,,7,10,-3.24,mean change in VL,,,648,Treatment Start,16,656,6.155,6.205,mAb,Regdanvimab,0
+MAB17,Kim et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,Mixed,4,,7,1,0,mean change in VL,,,644,Treatment Start,53,659,6.255,,mAb,Placebo,0
+MAB17,Kim et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,Mixed,4,,7,3,-0.82,mean change in VL,,,644,Treatment Start,53,659,6.255,,mAb,Placebo,0
+MAB17,Kim et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,Mixed,4,,7,7,-2.26,mean change in VL,,,644,Treatment Start,53,659,6.255,,mAb,Placebo,0
+MAB17,Kim et al. (2022),Regdanvimab,Placebo,Placebo,,Adult,Unvaccinated,Alpha,Mixed,4,,7,10,-3.09,mean change in VL,,,644,Treatment Start,53,659,6.255,,mAb,Placebo,0
+MAB19,Vega et al. (2023),BGB-DXP593,BGB-DXP593,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4.7,,7,1,0,LS mean change in VL,,,124,Treatment Start,2,134,5.01,,mAb,BGB-DXP593,1
+MAB19,Vega et al. (2023),BGB-DXP593,BGB-DXP593,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4.7,,7,3,-1.55,LS mean change in VL,0.154,SEM GROUP,124,Treatment Start,2,134,5.01,,mAb,BGB-DXP593,1
+MAB19,Vega et al. (2023),BGB-DXP593,BGB-DXP593,MAB,Yes,Adult,Unvaccinated,WT,Mixed,4.7,,7,8,-3.31,LS mean change in VL,0.156,SEM GROUP,124,Treatment Start,2,134,5.01,,mAb,BGB-DXP593,1
+MAB19,Vega et al. (2023),BGB-DXP593,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,6,,7,1,0,LS mean change in VL,,,46,Treatment Start,2,47,4.74,,mAb,Placebo,1
+MAB19,Vega et al. (2023),BGB-DXP593,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,6,,7,3,-1.44,LS mean change in VL,0.249,SEM GROUP,46,Treatment Start,2,47,4.74,,mAb,Placebo,1
+MAB19,Vega et al. (2023),BGB-DXP593,Placebo,Placebo,,Adult,Unvaccinated,WT,Mixed,6,,7,8,-3.12,LS mean change in VL,0.257,SEM GROUP,46,Treatment Start,2,47,4.74,,mAb,Placebo,1
+MAB20,Ison et al. (2023),Adintrevimab,Placebo,Placebo,,12+,Unvaccinated,Delta,High,2.5,,,1,0,LS mean change in VL,,,,Treatment Start,23,167,,,mAb,Placebo,1
+MAB20,Ison et al. (2023),Adintrevimab,Placebo,Placebo,,12+,Unvaccinated,Delta,High,2.5,,,3,-0.91,LS mean change in VL,0.197,SEM GROUP,,Treatment Start,23,167,,,mAb,Placebo,1
+MAB20,Ison et al. (2023),Adintrevimab,Placebo,Placebo,,12+,Unvaccinated,Delta,High,2.5,,,5,-1.38,LS mean change in VL,0.197,SEM GROUP,,Treatment Start,23,167,,,mAb,Placebo,1
+MAB20,Ison et al. (2023),Adintrevimab,Placebo,Placebo,,12+,Unvaccinated,Delta,High,2.5,,,7,-1.79,LS mean change in VL,0.193,SEM GROUP,,Treatment Start,23,167,,,mAb,Placebo,1
+MAB20,Ison et al. (2023),Adintrevimab,Placebo,Placebo,,12+,Unvaccinated,Delta,High,2.5,,,11,-3.15,LS mean change in VL,0.197,SEM GROUP,,Treatment Start,23,167,,,mAb,Placebo,1
+MAB20,Ison et al. (2023),Adintrevimab,Adintrevimab,MAB,Yes,12+,Unvaccinated,Delta,High,2.5,,,1,0,LS mean change in VL,,,,Treatment Start,8,169,,,mAb,Adintrevimab,1
+MAB20,Ison et al. (2023),Adintrevimab,Adintrevimab,MAB,Yes,12+,Unvaccinated,Delta,High,2.5,,,3,-1.35,LS mean change in VL,0.197,SEM GROUP,,Treatment Start,8,169,,,mAb,Adintrevimab,1
+MAB20,Ison et al. (2023),Adintrevimab,Adintrevimab,MAB,Yes,12+,Unvaccinated,Delta,High,2.5,,,5,-2.19,LS mean change in VL,0.202,SEM GROUP,,Treatment Start,8,169,,,mAb,Adintrevimab,1
+MAB20,Ison et al. (2023),Adintrevimab,Adintrevimab,MAB,Yes,12+,Unvaccinated,Delta,High,2.5,,,7,-2.41,LS mean change in VL,0.197,SEM GROUP,,Treatment Start,8,169,,,mAb,Adintrevimab,1
+MAB20,Ison et al. (2023),Adintrevimab,Adintrevimab,MAB,Yes,12+,Unvaccinated,Delta,High,2.5,,,11,-3.49,LS mean change in VL,0.197,SEM GROUP,,Treatment Start,8,169,,,mAb,Adintrevimab,1

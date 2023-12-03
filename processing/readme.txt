@@ -1,0 +1,1 @@
+The processing/ directory holds scripts used to transform raw data into clean rectangles of data used in analysis/
